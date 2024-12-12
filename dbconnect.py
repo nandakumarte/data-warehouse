@@ -18,3 +18,4 @@ finally:
     if conn:
         conn.close()
         print("Connection closed")
+        
